@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "description": "Base npm manifest for the sandbox workspace",
+  "packageManager": "npm@10.9.0",
   "license": "UNLICENSED",
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "scripts": {
     "start": "node -e \"console.log('No start script configured')\""
   }
