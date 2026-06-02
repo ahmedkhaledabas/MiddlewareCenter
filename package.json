@@ -1,9 +1,12 @@
 {
-  "name": "middlewarecenter",
+  "name": "starter-web-project",
   "version": "1.0.0",
-  "description": "MiddlewareCenter .NET 8 Clean Architecture solution",
-  "private": true,
+  "description": "Scaffolded starter Node.js project",
+  "main": "src/server.js",
   "scripts": {
-    "start": "echo \"This is a .NET project. Run: dotnet run --project MiddlewareCenter/src/MiddlewareCenter.API\""
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
