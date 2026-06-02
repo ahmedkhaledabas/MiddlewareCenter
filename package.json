@@ -1,0 +1,9 @@
+{
+  "name": "middlewarecenter",
+  "version": "1.0.0",
+  "description": "MiddlewareCenter .NET 8 Clean Architecture solution",
+  "private": true,
+  "scripts": {
+    "start": "echo \"This is a .NET project. Run: dotnet run --project MiddlewareCenter/src/MiddlewareCenter.API\""
+  }
+}
